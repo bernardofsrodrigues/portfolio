@@ -1,3 +1,4 @@
+/* eslint-disable no-empty */
 import { createContext, useContext, useEffect, useState, type ReactNode } from "react";
 import type { Lang } from "@/data/content";
 
@@ -20,7 +21,9 @@ export function LangProvider({ children }: { children: ReactNode }) {
 
   const setLang = (l: Lang) => {
     setLangState(l);
-    try { localStorage.setItem("lang", l); } catch {}
+    try {
+      localStorage.setItem("lang", l);
+    } catch {}
   };
 
   return <LangContext.Provider value={{ lang, setLang }}>{children}</LangContext.Provider>;

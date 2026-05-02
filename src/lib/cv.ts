@@ -6,7 +6,7 @@ export const cvFiles: Record<Lang, { url: string; filename: string }> = {
     filename: "Bernardo_Rodrigues_Curriculo_PT.pdf",
   },
   en: {
-    url: "/Bernardo_Rodrigues_Resume.pdf",
+    url: "/Bernardo_Rodrigues_Resume_EN.pdf",
     filename: "Bernardo_Rodrigues_Resume_EN.pdf",
   },
   es: {
