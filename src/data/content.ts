@@ -1195,7 +1195,7 @@ export const experienceData = (lang: Lang) => {
     pt: [
       {
         title: "Full Stack Developer Intern — DTI Digital",
-        date: "Nov 2024 — Presente",
+        date: "Nov 2024 — Nov 2025",
         description:
           "Desenvolvimento de sistemas web corporativos para visualização de dados e relatórios estratégicos. Construção e manutenção de APIs REST e microsserviços escaláveis com .NET e Azure Functions. Interfaces responsivas com React e TypeScript, testes automatizados com xUnit e React Testing Library.",
         tech: [
@@ -1238,7 +1238,7 @@ export const experienceData = (lang: Lang) => {
     en: [
       {
         title: "Full Stack Developer Intern — DTI Digital",
-        date: "Nov 2024 — Present",
+        date: "Nov 2024 — Nov 2025",
         description:
           "Building corporate web systems for data visualization and strategic reporting. Designing and maintaining scalable REST APIs and microservices with .NET and Azure Functions. Responsive interfaces with React and TypeScript and automated tests with xUnit and React Testing Library.",
         tech: [
@@ -1281,7 +1281,7 @@ export const experienceData = (lang: Lang) => {
     es: [
       {
         title: "Pasante Full Stack — DTI Digital",
-        date: "Nov 2024 — Presente",
+        date: "Nov 2024 — Nov 2025",
         description:
           "Desarrollo de sistemas web corporativos para visualización de datos e informes estratégicos. Construcción y mantenimiento de APIs REST y microservicios escalables con .NET y Azure Functions. Interfaces responsivas con React y TypeScript y pruebas automatizadas con xUnit y React Testing Library.",
         tech: [
